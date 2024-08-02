@@ -1,0 +1,1 @@
+FinGenius is an AI-driven solution integrated into the Bank's app, designed to revolutionize personal finance management. It continuously monitors the customer’s account balance, investment portfolio, financial data, and current market trends to provide tailored investment advice and opportunities.
